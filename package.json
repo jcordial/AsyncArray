@@ -1,0 +1,26 @@
+{
+  "name": "asyncarray",
+  "version": "0.0.1",
+  "description": "A fun but useless Array wrapper that provides asynchronous comprehension methods.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcordial/AsyncArray.git"
+  },
+  "keywords": [
+    "array",
+    "async"
+  ],
+  "author": "Jason Cordial <jpcordial@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcordial/AsyncArray/issues"
+  },
+  "homepage": "https://github.com/jcordial/AsyncArray#readme"
+}
